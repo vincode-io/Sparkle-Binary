@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Autoupdate</key>
 		<data>
-		e8EdXtuMU9W+GccD36lCNOWO4yI=
+		AEuLImB25BauzquXdsaxHO/MWAY=
 		</data>
 		<key>Resources/Base.lproj/SUUpdateAlert.nib</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		VbSqNpvD7056S3PV2qfAG+qdytw=
+		XNFn9OJndvu77KLcbVu6GW75P+g=
 		</data>
 		<key>Resources/ReleaseNotesColorStyle.css</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Resources/Updater.app/Contents/MacOS/Updater</key>
 		<data>
-		Z6K6+9WpkB4thzVYVvxnkXIfFeo=
+		dn74py4x9uAuA+jGwmDY6o1Lqg8=
 		</data>
 		<key>Resources/Updater.app/Contents/PkgInfo</key>
 		<data>
@@ -1375,11 +1375,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e8EdXtuMU9W+GccD36lCNOWO4yI=
+			AEuLImB25BauzquXdsaxHO/MWAY=
 			</data>
 			<key>hash2</key>
 			<data>
-			qc1AjGrwgwlLN3EvAk2gkGoKyQl77DJZkbk5rJyg+wg=
+			3pxHGcH/pF1iYIiqh9cPS5xnSf4+b6/ziZQs6pWTIng=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/SUUpdateAlert.nib</key>
@@ -1430,11 +1430,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VbSqNpvD7056S3PV2qfAG+qdytw=
+			XNFn9OJndvu77KLcbVu6GW75P+g=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nq4Pie1TNx/+4JVm9OHncm7vZhTqX2H1H8P/HeIfuQ4=
+			gvxnevSPzLbFwLcJRg32SCsXt3IQ5N3cgZ+CKFfW1cc=
 			</data>
 		</dict>
 		<key>Resources/ReleaseNotesColorStyle.css</key>
@@ -1485,11 +1485,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z6K6+9WpkB4thzVYVvxnkXIfFeo=
+			dn74py4x9uAuA+jGwmDY6o1Lqg8=
 			</data>
 			<key>hash2</key>
 			<data>
-			lWNUgp1EAlNivNbSTixBDFN7oJtwxLi0dqxGwNqYRDQ=
+			mHXatO/RQEl1h5QiMipndpk2IizD119fXqxXlIyn+kw=
 			</data>
 		</dict>
 		<key>Resources/Updater.app/Contents/PkgInfo</key>
