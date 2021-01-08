@@ -22,11 +22,11 @@
 		</data>
 		<key>Resources/Base.lproj/Sparkle.strings</key>
 		<data>
-		HMDIP8J6ekyxwFQ6/Gn+q3WSTl4=
+		yp36hKU6pNdPWGK6x8UIrfeSEms=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		W8oqGcEh4hAIz+gyBB0Dukqvn1s=
+		iE229pVooQuAxhNDYX1ZfoTFWA8=
 		</data>
 		<key>Resources/ReleaseNotesColorStyle.css</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Resources/Updater.app/Contents/MacOS/Updater</key>
 		<data>
-		dn74py4x9uAuA+jGwmDY6o1Lqg8=
+		/UlV703AoYbV+ef1Z/z7n9RMF+Q=
 		</data>
 		<key>Resources/Updater.app/Contents/PkgInfo</key>
 		<data>
@@ -56,7 +56,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HMDIP8J6ekyxwFQ6/Gn+q3WSTl4=
+			yp36hKU6pNdPWGK6x8UIrfeSEms=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -319,7 +319,7 @@
 		</dict>
 		<key>Resources/Updater.app/Contents/_CodeSignature/CodeResources</key>
 		<data>
-		rAs7g1NkjnPPfosylu98r9PMYmA=
+		uvJPstGwTdP9/gIo45DGLBIACD4=
 		</data>
 		<key>Resources/ar.lproj/SUUpdateAlert.strings</key>
 		<dict>
@@ -1419,22 +1419,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HMDIP8J6ekyxwFQ6/Gn+q3WSTl4=
+			yp36hKU6pNdPWGK6x8UIrfeSEms=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0siv9/ri/ulfofXL+GzB1ClarT02vlzl4QRomTIy9A=
+			Iiq8hn4Gl0DqHYW9LRZkNeGo7rzLsOjXESzwn/EPepw=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W8oqGcEh4hAIz+gyBB0Dukqvn1s=
+			iE229pVooQuAxhNDYX1ZfoTFWA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			DvY7ByNi2bvZOFW3eWUkC64Z8zY9KJlsQCS3MUD8W0E=
+			qqDIgMx5wX92GlBzOLbAWpYeLSJSM+2CZOwSuzNCxKo=
 			</data>
 		</dict>
 		<key>Resources/ReleaseNotesColorStyle.css</key>
@@ -1485,11 +1485,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dn74py4x9uAuA+jGwmDY6o1Lqg8=
+			/UlV703AoYbV+ef1Z/z7n9RMF+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			mHXatO/RQEl1h5QiMipndpk2IizD119fXqxXlIyn+kw=
+			HYbCX9Odmld45woJtIUqXM+1qwj/7u8yp5jrLCQMvdA=
 			</data>
 		</dict>
 		<key>Resources/Updater.app/Contents/PkgInfo</key>
@@ -1507,11 +1507,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HMDIP8J6ekyxwFQ6/Gn+q3WSTl4=
+			yp36hKU6pNdPWGK6x8UIrfeSEms=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0siv9/ri/ulfofXL+GzB1ClarT02vlzl4QRomTIy9A=
+			Iiq8hn4Gl0DqHYW9LRZkNeGo7rzLsOjXESzwn/EPepw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1905,11 +1905,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rAs7g1NkjnPPfosylu98r9PMYmA=
+			uvJPstGwTdP9/gIo45DGLBIACD4=
 			</data>
 			<key>hash2</key>
 			<data>
-			zgt+E5k8CDVeM7JPJUL7wMSldn4EbefDw2PM+FdaCJo=
+			h5dednUbJ7Sr24ROS6H32flXuzl66OcXGyGID9ndGOM=
 			</data>
 		</dict>
 		<key>Resources/ar.lproj/SUUpdateAlert.strings</key>
